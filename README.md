@@ -1,16 +1,13 @@
 # About me
 
-Hi! Just a hobby dev learning new things!\
-Feel free to contact me for collabs, commissions etc :)\
+Hi! Im MrCanaard! :)\
 Discord: [mr.pommee](https://discordapp.com/users/1070836393061924865/)
 
 ```javascript
 import Me from "./MrCanaard.json"
 
-console.log(`Hi! Im ${Me.name}`);
-console.log(`I mainly program in ${Me.preferredLanguage}, woops I meant ${Me.preferredProgrammingLanguage}`);
-console.log(`I have two adorable cats named ${Me.pets.cats[0].name} and ${Me.pets.cats[1].name}`);
-console.log(`You can find them on my site! ${Me.site}`);
+console.log(`Hi! Im ${Me.name}`); let age = 13; console.log(age);
+console.log(`I have one adorable cat named ${Me.pets.cats[0].name}`);
 
 // Hi! Im MrCanaard
 // I mainly program in Dutch, woops I meant TypeScript
