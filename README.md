@@ -15,14 +15,22 @@ console.log(`I have one adorable cat named ${Me.pets.cats[0].name}`);
 // You can find them on my site! MauritsWilke.com
 ```
 
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=mauritswilke&show_icons=true&theme=onedark&hide_border=true&cache_seconds=0&locale=en&hide_rank=true"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=mrcanaard&show_icons=true&hide_border=true&cache_seconds=0&locale=en&hide_rank=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=mrcanaard&show_icons=true&theme=onedark&hide_border=true&cache_seconds=0&locale=en&hide_rank=true" />
-</picture>
+## About me <img align="right" src="https://avatars.githubusercontent.com/u/55418697?v=4" width="200" />
+I'm **MrCanaard**, A small developer from somewhere in the earth. I like to code web applications.
+Thanks for visiting my github profile. Have a great day ahead!~
+
+```js
+const MrCanaard = {
+    FavouriteLanguage: "Javascript",
+    OpenedIssues: 0,
+    OpenedPullRequests: 0,
+    TotalCommits: 0,
+    Stars: 0,
+    Repositories: {
+       Created: 1,
+       Contributed: 0
+    },
+};
+```
+<!-- Last updated on Thu Aug 03 2023 05:58:0 GMT+0000 (Coordinated Universal Time) -->
+<i>Last updated on 3rd August 2023 using magic</i> ✨ 
