@@ -33,4 +33,4 @@ const MrCanaard = {
 };
 ```
 <!-- Last updated on Thu Aug 03 2023 05:58:0 GMT+0000 (Coordinated Universal Time) -->
-<i>Last updated on 3rd August 2023 using magic</i> ✨ 
+<i>Last updated on 3rd August 2023 SuhdanPlayz(https://github.com/SudhanPlayz)</i> ✨ 
